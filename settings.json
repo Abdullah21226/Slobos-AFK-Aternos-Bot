@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "lush_jerry.aternos.me:40623",
-    "port": 27586,
+    "port": 40623,
     "version": "",
     "try-creative": false
   },
